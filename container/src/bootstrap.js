@@ -1,6 +1,8 @@
 import 'products/ProductsIndex'
 
-       
+import 'cart/CartShow'  
+
+
 //   products: 'products@http://localhost:8081/remoteEntry.js'
 //key products always be same as container webapck products
 // in import
